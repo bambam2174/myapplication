@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sedat/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ccd57bbeeb672334d7a340cd6a56cfcc6696ef7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/41194e1ad9f8c3bfa5d06bb606904fde2462a3df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_267a30e1610e60079d8cc0ae85b690c71f065964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/af2d2cde0e6fd25cb2745fb60957782b650243c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c527d43e63517a87c62ad906cd248c0cef0e9fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_e68ee52a745b406d43f9513b80a10a67131a4925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/45276b4026d7c2079b5f93035f3072ba7dc38c5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae23f0cbf313f8ac29609fa6f979959af7c98176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/18555a5571962a6b6f43c7c3a19a506751bb236f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffb624ed7df2bf877edaaf4a8a3dbf11fedd726a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/534b9a4f46d84afcafdcda8caa50a24e5e84dc39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2db9a0bd6b7be06f42d2f4b7fa34eb0b933b5c4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/9709396ac479130b9f9a936d92a32070c4adffa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d832f19ad03c04fb5823e9496a4244f02c13367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="91b96db8961ac3efd04a88328ca1509c43fd7168">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e93232ac4f342719ffd8b872abb3cd2645981ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/3bfe58ec316e24ac65b51ac91a7a6c9bccfdc6c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28ea62ed863f5aac811673361468643d0d30ab76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/9f9e24e279d237a01609f5970c70395fca365371/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cf616e2bf8425dcc55b8877bc5080c533116e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/78ec4a3d2954b46d98fcca7fdc0f290abde359b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9f7074b623c77b717ce4fc6cdb09394ccd92cd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/e7ba4d5d32c2781e85d0e517e850f538465c8b8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc10d2175b6cb66dbb3f9efe1bea850c780f76dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/dbb998d5ca127ddc2bd9b1f6bbed8665fad2933e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0190ab88b5b5387e3bb91a8cb10a68530cc8e484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2a93a5422407c593c51375324ea51c2623f2735a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/3c08b24021b84d44d2418933d2f83bba5a22a72f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0602cade39873f5a1d2caaa947df336c8d4f622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sedat/.android/build-cache/6553923fb567ef8f3af54510ee08d5690c09d780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sedat/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fee262fdc358949ba48b2dd2051e7fc14004a1ce/classes.dex" />
+    </item>
+
+</items>
